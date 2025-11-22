@@ -1,2 +1,0 @@
-This project showcases a Voice-Controlled Home Automation System built using the ESP32 Wi-Fi microcontroller, 2-channel relay module, and the Sinric Pro IoT platform. The system allows you to control a bulb and fan using voice commands via Alexa or Google Assistant.
-The main goal of this project is to create a low-cost, reliable, and expandable home automation setup ideal for IoT beginners and enthusiasts.
