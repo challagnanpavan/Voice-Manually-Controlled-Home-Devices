@@ -105,18 +105,7 @@ Bulb / Fan
 
 ---
 
-## 📂 Suggested Folder Structure
 
-```
-├── code
-│   └── esp32_sinricpro_code.ino
-├── images
-│   ├── circuit_diagram.png
-│   └── system_architecture.png
-├── README.md
-```
-
----
 
 ## 🚀 Future Improvements
 
